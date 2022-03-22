@@ -5,7 +5,7 @@
 <p align="left">✍ I'm a student of: FPT Polytechnic College</p>
 <p align="left">🌱 I’m currently learning PHP . </p>
 <p align="left">
- 🤼‍♂️ Teamwork project
+ 🤼‍♂️ Teamwork project <a href="../../../Duan1">Duan1 PHP Basic</a>
   <img src="https://badges.pufler.dev/contributors/doanvanlong/Duan1?size=30px&padding=5px&bots=true">
 </p>
 
